@@ -10,4 +10,6 @@ $ npm install
 
 ``` bash
 $ node csv2tblcsv.js [-noheader] <csv-file>
+
+-noheader: NOT handle the first row of CSV as a header.
 ```
