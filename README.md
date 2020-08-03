@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-node >= 14.7.0
-npm >= 6.14.7
+- node >= 14.7.0  
+- npm >= 6.14.7
 
 ## Build Setup
 
