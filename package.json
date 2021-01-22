@@ -11,7 +11,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "fast-csv": "^4.3.1",
+    "fast-csv": "^4.3.6",
     "html-to-pdfmake": "^2.0.10",
     "jsdom": "^16.3.0",
     "pdfmake": "^0.1.67",
